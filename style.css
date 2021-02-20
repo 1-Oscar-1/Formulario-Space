@@ -1,6 +1,6 @@
 *{padding: 0; margin: 0;}
 body{
-    background-image: url(background.jpg);
+    background-image: url(img/background.jpg);
 }
 .menu_content{
     width: 400px;
@@ -28,7 +28,7 @@ input{
     border: none;
     outline: none;
     background-color: rgba(0, 0, 0, 0.5);
-    background-image: url(blanco.png);
+    background-image: url(img/blanco.png);
     background-size: 50px 100%;
     background-position: left;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@ input{
     transition: all 0.5s;
 }
 input:focus{
-    background-image: url(n3.svg);
+    background-image: url(img/n3.svg);
     background-position: right;
 }
 textarea{
