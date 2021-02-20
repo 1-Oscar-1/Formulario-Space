@@ -60,6 +60,8 @@ textarea:focus{
     height: 35px;
     padding: 0;
     cursor: pointer;
+    border-color: rgba(0, 255, 0, 0);
+    border-bottom: 1px solid #00FF00;
     transition: all 0.5;
 }
 .btn_enviar:hover{
